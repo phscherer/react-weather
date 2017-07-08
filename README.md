@@ -11,4 +11,6 @@ This application is being developed based on the course [Modern React with Redux
 ```
 
 ## Technologies
-* React
+* React.js
+* [axios](https://github.com/mzabriskie/axios)
+* ES2015
